@@ -1,4 +1,5 @@
-Sports Analytics and Prediction System
+# Olympic odyssey
+Sports Analytics and Prediction System 
 
 This project is divided into three parts and focuses on analyzing the performance of athletes, coaches, teams, and events, along with predicting future outcomes using machine learning algorithms. 
 The goal of this project is to help users predict the performance of athletes and aid in market strategies for platforms like Dream 11, where users can place bets and earn rewards based on their predictions.
